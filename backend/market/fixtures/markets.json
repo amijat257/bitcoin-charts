@@ -1,0 +1,2584 @@
+[
+    {
+        "fields": {
+            "name": "btcmarkets",
+            "symbol": "btcmarketsAUD",
+            "currency": 5,
+            "website": "https://btcmarkets.net/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Mercado Bitcoin",
+            "symbol": "mrcdBRL",
+            "currency": 16,
+            "website": "http://mercadobitcoin.com.br/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Kraken",
+            "symbol": "krakenCAD",
+            "currency": 19,
+            "website": "https://kraken.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Paymium",
+            "symbol": "bcEUR",
+            "currency": 33,
+            "website": "https://www.paymium.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "BitBay",
+            "symbol": "bitbayEUR",
+            "currency": 33,
+            "website": "https://bitbay.net/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Bitstamp",
+            "symbol": "bitstampEUR",
+            "currency": 33,
+            "website": "https://www.bitstamp.net/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "CEX.IO",
+            "symbol": "cexEUR",
+            "currency": 33,
+            "website": "https://coinfalcon.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "CoinFalcon",
+            "symbol": "coinfalconEUR",
+            "currency": 33,
+            "website": "https://coinfalcon.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Coinfloor",
+            "symbol": "coinfloorEUR",
+            "currency": 33,
+            "website": "https://coinfloor.co.uk/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "CoinsBank",
+            "symbol": "coinsbankEUR",
+            "currency": 33,
+            "website": "https://coinsbank.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Kraken",
+            "symbol": "krakenEUR",
+            "currency": 33,
+            "website": "https://kraken.com",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "The Rock Trading",
+            "symbol": "rockEUR",
+            "currency": 33,
+            "website": "http://therocktrading.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Coinfloor",
+            "symbol": "coinfloorGBP",
+            "currency": 106,
+            "website": "https://coinfloor.co.uk/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "CoinsBank",
+            "symbol": "coinsbankGBP",
+            "currency": 106,
+            "website": "https://coinsbank.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "BitX",
+            "symbol": "bitxIDR",
+            "currency": 47,
+            "website": "https://www.luno.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Indodax",
+            "symbol": "btcoidIDR",
+            "currency": 47,
+            "website": "https://indodax.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Bit2C",
+            "symbol": "bit2cILS",
+            "currency": 50,
+            "website": "https://www.bit2c.co.il/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "bitFlyer",
+            "symbol": "bitflyerJPY",
+            "currency": 52,
+            "website": "https://bitflyer.jp/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "BTCBOX",
+            "symbol": "btcboxJPY",
+            "currency": 52,
+            "website": "https://www.btcbox.co.jp/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Kraken",
+            "symbol": "krakenJPY",
+            "currency": 52,
+            "website": "https://kraken.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Zaif",
+            "symbol": "zaifJPY",
+            "currency": 52,
+            "website": "https://zaif.jp/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Korbit",
+            "symbol": "korbitKRW",
+            "currency": 56,
+            "website": "https://www.korbit.co.kr/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "BitX",
+            "symbol": "bitxMYR",
+            "currency": 63,
+            "website": "https://www.luno.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "BitX",
+            "symbol": "bitxNGN",
+            "currency": 74,
+            "website": "https://www.luno.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "BitBay",
+            "symbol": "bitbayPLN",
+            "currency": 82,
+            "website": "https://bitbay.net/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "NevBit",
+            "symbol": "nevbitPLN",
+            "currency": 82,
+            "website": "https://nevbit.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "CEX.IO",
+            "symbol": "cexRUB",
+            "currency": 85,
+            "website": "https://cex.io/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "BitBay",
+            "symbol": "bitbayUSD",
+            "currency": 107,
+            "website": "https://bitbay.net/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "bitFlyer",
+            "symbol": "bitflyerUSD",
+            "currency": 107,
+            "website": "https://bitflyer.com/en-us/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "bitKonan",
+            "symbol": "bitkonanUSD",
+            "currency": 107,
+            "website": "https://bitkonan.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "BitStamp",
+            "symbol": "bitstampUSD",
+            "currency": 107,
+            "website": "https://www.bitstamp.net/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "CEX.IO",
+            "symbol": "cexUSD",
+            "currency": 107,
+            "website": "https://cex.io/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "CoinsBank",
+            "symbol": "coinsbankUSD",
+            "currency": 107,
+            "website": "https://coinsbank.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Coinsbit",
+            "symbol": "coinsbitioUSD",
+            "currency": 107,
+            "website": "https://coinsbit.io/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "Kraken",
+            "symbol": "krakenUSD",
+            "currency": 107,
+            "website": "https://kraken.com",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "LakeBTC.com",
+            "symbol": "lakeUSD",
+            "currency": 107,
+            "website": "https://lakebtc.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "VBTC",
+            "symbol": "vbtcVND",
+            "currency": 111,
+            "website": "https://vbtc.exchange/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "name": "BitX",
+            "symbol": "bitxZAR",
+            "currency": 94,
+            "website": "https://www.luno.com/",
+            "active": true
+        },
+        "model": "market.Market"
+    },{
+        "fields": {
+            "active": false,
+            "currency": 3,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcARS",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 5,
+            "name": "ANX",
+            "symbol": "anxhkAUD",
+            "website": "https://anxbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 5,
+            "name": "BitMarket.eu",
+            "symbol": "bitmarketAUD",
+            "website": "https://bitmarket.eu/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 5,
+            "name": "Crypto X Change",
+            "symbol": "cryptoxAUD",
+            "website": "https://cryptoxchange.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 5,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcAUD",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 5,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxAUD",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 5,
+            "name": "Ruxum",
+            "symbol": "ruxumAUD",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 5,
+            "name": "TradeHill",
+            "symbol": "thAUD",
+            "website": "https://www.tradehill.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 5,
+            "name": "World Bitcoin Exchange",
+            "symbol": "wbxAUD",
+            "website": "https://www.worldbitcoinexchange.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 5,
+            "name": "WeExchange",
+            "symbol": "weexAUD",
+            "website": "https://weexchange.co/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 16,
+            "name": "Brasil Bitcoin Market",
+            "symbol": "bbmBRL",
+            "website": ""
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 16,
+            "name": "BITCOIN TO YOU",
+            "symbol": "btc2uBRL",
+            "website": "https://www.bitcointoyou.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 16,
+            "name": "FoxBit",
+            "symbol": "foxbitBRL",
+            "website": "https://foxbit.com.br/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 16,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcBRL",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 16,
+            "name": "OmniTrade",
+            "symbol": "omnitradeBRL",
+            "website": "https://omnitrade.io/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 19,
+            "name": "ANX",
+            "symbol": "anxhkCAD",
+            "website": "https://anxbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 19,
+            "name": "Coinbase",
+            "symbol": "coinbaseCAD",
+            "website": "https://coinbase.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 19,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcCAD",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 19,
+            "name": "LibertyBit",
+            "symbol": "lybitCAD",
+            "website": "https://www.libertybit.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 19,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxCAD",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 19,
+            "name": "Canadian Virtual Exchange",
+            "symbol": "virtexCAD",
+            "website": "https://www.cavirtex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 19,
+            "name": "WeExchange",
+            "symbol": "weexCAD",
+            "website": "https://weexchange.co/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 97,
+            "name": "ANX",
+            "symbol": "anxhkCHF",
+            "website": "https://anxbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 97,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcCHF",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 97,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxCHF",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 97,
+            "name": "Ruxum",
+            "symbol": "ruxumCHF",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 21,
+            "name": "ChileBit",
+            "symbol": "chilebitCLP",
+            "website": "https://chilebit.net/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 21,
+            "name": "TradeHill",
+            "symbol": "thCLP",
+            "website": "https://www.tradehill.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 22,
+            "name": "ANX",
+            "symbol": "anxhkCNY",
+            "website": "https://anxbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 22,
+            "name": "BTC China",
+            "symbol": "btcnCNY",
+            "website": "https://btcchina.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 22,
+            "name": "BtcTrade",
+            "symbol": "btctradeCNY",
+            "website": "https://www.btctrade.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 22,
+            "name": "CHBTC",
+            "symbol": "chbtcCNY",
+            "website": "https://www.chbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 22,
+            "name": "Jubi",
+            "symbol": "jubiCNY",
+            "website": "https://www.jubi.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 22,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxCNY",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 22,
+            "name": "RMBTB",
+            "symbol": "rmbtbCNY",
+            "website": "https://www.rmbtb.com/en/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 27,
+            "name": "Bitcash.cz",
+            "symbol": "bitcashCZK",
+            "website": "https://bitcash.cz/market/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 27,
+            "name": "BitStock",
+            "symbol": "bitstockCZK",
+            "website": "https://www.bitstock.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 27,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcCZK",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 28,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcDKK",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 28,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxDKK",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Abucoins",
+            "symbol": "abucoinsEUR",
+            "website": "https://abucoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "ANX",
+            "symbol": "anxhkEUR",
+            "website": "https://anxbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "aqoin",
+            "symbol": "aqoinEUR",
+            "website": "http://aqoin.me/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Bitcoin7",
+            "symbol": "b7EUR",
+            "website": "https://bitcoin7.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Bitalo",
+            "symbol": "bitaloEUR",
+            "website": "https://bitalo.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Bitcurex",
+            "symbol": "bitcurexEUR",
+            "website": "https://bitcurex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "BitMarket.net",
+            "symbol": "bitmarketEUR",
+            "website": "https://bitmarket.net/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Bitcoin-24.com",
+            "symbol": "btc24EUR",
+            "website": "https://bitcoin-24.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "bitcoin.de",
+            "symbol": "btcdeEUR",
+            "website": "https://www.bitcoin.de/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "btc\u00b7e",
+            "symbol": "btceEUR",
+            "website": "https://btc-e.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Bitcoin Euro Exchange",
+            "symbol": "btceurEUR",
+            "website": "http://www.btceur.eu/en/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "btcex.com",
+            "symbol": "btcexEUR",
+            "website": "https://btcex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "GDAX",
+            "symbol": "coinbaseEUR",
+            "website": "https://www.gdax.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Cryptonit",
+            "symbol": "cryptonitEUR",
+            "website": "https://www.cryptonit.net/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Crypto-Trade",
+            "symbol": "crytrEUR",
+            "website": "https://crypto-trade.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "EXMO",
+            "symbol": "exmoEUR",
+            "website": "https://exmo.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "FBTC Exchange",
+            "symbol": "fbtcEUR",
+            "website": ""
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Global Bitcoin Exchange",
+            "symbol": "globalEUR",
+            "website": ""
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "hitbtc",
+            "symbol": "hitbtcEUR",
+            "website": "https://hitbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "IBWT",
+            "symbol": "ibwtEUR",
+            "website": "https://ibwt.co.uk/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "IMCEX.COM",
+            "symbol": "imcexEUR",
+            "website": ""
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Intersango",
+            "symbol": "intrsngEUR",
+            "website": "https://intersango.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "itBit",
+            "symbol": "itbitEUR",
+            "website": "https://www.itbit.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Justcoin",
+            "symbol": "justEUR",
+            "website": "https://justcoin.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcEUR",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxEUR",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Ripple",
+            "symbol": "rippleEUR",
+            "website": "https://ripple.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Ruxum",
+            "symbol": "ruxumEUR",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "Vircurex",
+            "symbol": "vcxEUR",
+            "website": "https://vircurex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "WEX",
+            "symbol": "wexEUR",
+            "website": "https://wex.nz/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 33,
+            "name": "zyado",
+            "symbol": "zyadoEUR",
+            "website": "https://www.zyado.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 38,
+            "name": "Bitcoin Market",
+            "symbol": "bcmBMGAU",
+            "website": "https://bitcoinmarket.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 38,
+            "name": "Bitcoin Market",
+            "symbol": "bcmPXGAU",
+            "website": "https://bitcoinmarket.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "ANX",
+            "symbol": "anxhkGBP",
+            "website": "https://anxbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "Bitcoin Central",
+            "symbol": "bcGBP",
+            "website": "https://bitcoin-central.net/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "bit121",
+            "symbol": "bit121GBP",
+            "website": "https://bit121.co.uk/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "Bitalo",
+            "symbol": "bitaloGBP",
+            "website": "https://bitalo.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "BitMarket.eu",
+            "symbol": "bitmarketGBP",
+            "website": "https://bitmarket.eu/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "Britcoin",
+            "symbol": "britcoinGBP",
+            "website": "https://britcoin.co.uk/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "GDAX",
+            "symbol": "coinbaseGBP",
+            "website": "https://www.gdax.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "Global Bitcoin Exchange",
+            "symbol": "globalGBP",
+            "website": ""
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "IBWT",
+            "symbol": "ibwtGBP",
+            "website": "https://ibwt.co.uk/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "Intersango",
+            "symbol": "intrsngGBP",
+            "website": "https://intersango.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "Kraken",
+            "symbol": "krakenGBP",
+            "website": "https://kraken.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcGBP",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxGBP",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 106,
+            "name": "Ruxum",
+            "symbol": "ruxumGBP",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 43,
+            "name": "ANX",
+            "symbol": "anxhkHKD",
+            "website": "https://anxbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 43,
+            "name": "Bitcoin HK Exchange",
+            "symbol": "btchkexHKD",
+            "website": "https://btchkex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 43,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcHKD",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 43,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxHKD",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 43,
+            "name": "Ruxum",
+            "symbol": "ruxumHKD",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 44,
+            "name": "Ruxum",
+            "symbol": "ruxumHUF",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 50,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcILS",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 46,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcINR",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 46,
+            "name": "TradeHill",
+            "symbol": "thINR",
+            "website": "https://www.tradehill.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 52,
+            "name": "ANX",
+            "symbol": "anxhkJPY",
+            "website": "https://anxbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 52,
+            "name": "btcex.com",
+            "symbol": "btcexJPY",
+            "website": "https://btcex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 52,
+            "name": "Fisco",
+            "symbol": "fiscoJPY",
+            "website": "https://fcce.jp/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 52,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxJPY",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 52,
+            "name": "Ruxum",
+            "symbol": "ruxumJPY",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 56,
+            "name": "Kraken",
+            "symbol": "krakenKRW",
+            "website": "https://kraken.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 61,
+            "name": "bitme",
+            "symbol": "bitmeLTC",
+            "website": "https://bitme.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 61,
+            "name": "IBWT",
+            "symbol": "ibwtLTC",
+            "website": "https://ibwt.co.uk/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 61,
+            "name": "Justcoin",
+            "symbol": "justLTC",
+            "website": "https://justcoin.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 61,
+            "name": "Kraken",
+            "symbol": "krakenLTC",
+            "website": "https://kraken.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 65,
+            "name": "Bitso",
+            "symbol": "bitsoMXN",
+            "website": "https://bitso.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 65,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcMXN",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 68,
+            "name": "Kraken",
+            "symbol": "krakenNMC",
+            "website": "https://kraken.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 75,
+            "name": "Justcoin",
+            "symbol": "justNOK",
+            "website": "https://justcoin.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 75,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcNOK",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 72,
+            "name": "ANX",
+            "symbol": "anxhkNZD",
+            "website": "https://anxbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 72,
+            "name": "bitNZ",
+            "symbol": "bitnzNZD",
+            "website": "https://bitnz.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 72,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcNZD",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 72,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxNZD",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 77,
+            "name": "Urdubit",
+            "symbol": "urdubitPKR",
+            "website": "https://urdubit.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "Abucoins",
+            "symbol": "abucoinsPLN",
+            "website": "https://abucoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "bid extreme",
+            "symbol": "bidxtrmPLN",
+            "website": "https://bidextreme.pl/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "Bitalo",
+            "symbol": "bitaloPLN",
+            "website": "https://bitalo.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "Bitchange.pl",
+            "symbol": "bitchangePLN",
+            "website": "https://bitchange.pl/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "Bitcurex",
+            "symbol": "bitcurexPLN",
+            "website": "https://bitcurex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "BitMarket.net",
+            "symbol": "bitmarketPLN",
+            "website": "https://bitmarket.net/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "Bitmaszyna",
+            "symbol": "bitmaszynaPLN",
+            "website": "https://bitmaszyna.pl/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "bitomat.pl",
+            "symbol": "bitomatPLN",
+            "website": ""
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "Coinfloor",
+            "symbol": "coinfloorPLN",
+            "website": "https://coinfloor.co.uk/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "Flucto",
+            "symbol": "fluctoPLN",
+            "website": "https://www.flucto.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "FreshBTC",
+            "symbol": "freshPLN",
+            "website": ""
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "Global Bitcoin Exchange",
+            "symbol": "globalPLN",
+            "website": ""
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "Intersango",
+            "symbol": "intrsngPLN",
+            "website": "https://intersango.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcPLN",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxPLN",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 82,
+            "name": "Ruxum",
+            "symbol": "ruxumPLN",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 84,
+            "name": "BTCXchange",
+            "symbol": "btcxchangeRON",
+            "website": "https://www.btcxchange.ro/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 85,
+            "name": "BitMarket.eu",
+            "symbol": "bitmarketRUB",
+            "website": "https://bitmarket.eu/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 85,
+            "name": "btc\u00b7e",
+            "symbol": "btceRUR",
+            "website": "https://btc-e.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 85,
+            "name": "btcex.com",
+            "symbol": "btcexRUB",
+            "website": "https://btcex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 85,
+            "name": "btcex.com",
+            "symbol": "btcexWMR",
+            "website": "https://btcex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 85,
+            "name": "btcex.com",
+            "symbol": "btcexYAD",
+            "website": "https://btcex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 85,
+            "name": "EXMO",
+            "symbol": "exmoRUB",
+            "website": "https://exmo.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 85,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcRUB",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 85,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxRUB",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 85,
+            "name": "Ruxum",
+            "symbol": "ruxumRUB",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 85,
+            "name": "WEX",
+            "symbol": "wexRUB",
+            "website": "https://wex.nz/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 96,
+            "name": "FYB-SE",
+            "symbol": "fybseSEK",
+            "website": "https://www.fybse.se/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 96,
+            "name": "Kapiton",
+            "symbol": "kptnSEK",
+            "website": "https://kapiton.se/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 96,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcSEK",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 96,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxSEK",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 96,
+            "name": "Ruxum",
+            "symbol": "ruxumSEK",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 91,
+            "name": "ANX",
+            "symbol": "anxhkSGD",
+            "website": "https://anxbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 91,
+            "name": "FYB-SG",
+            "symbol": "fybsgSGD",
+            "website": "https://www.fybsg.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 91,
+            "name": "itBit",
+            "symbol": "itbitSGD",
+            "website": "https://www.itbit.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 91,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcSGD",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 91,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxSGD",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 91,
+            "name": "Ruxum",
+            "symbol": "ruxumSGD",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 90,
+            "name": "The Rock Trading",
+            "symbol": "rockSLL",
+            "website": "http://therocktrading.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 90,
+            "name": "VirWox",
+            "symbol": "virwoxSLL",
+            "website": "https://www.virwox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 101,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcTHB",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 101,
+            "name": "Mt. Gox",
+            "symbol": "mtgoxTHB",
+            "website": "https://mtgox.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 101,
+            "name": "Ruxum",
+            "symbol": "ruxumTHB",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 105,
+            "name": "Ruxum",
+            "symbol": "ruxumUAH",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "1coin",
+            "symbol": "1coinUSD",
+            "website": "https://www.1coin.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Abucoins",
+            "symbol": "abucoinsUSD",
+            "website": "https://abucoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Allcoin",
+            "symbol": "allcoinUSD",
+            "website": "https://allcoin.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "ANX",
+            "symbol": "anxhkUSD",
+            "website": "https://anxbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Bitcoin2Cash",
+            "symbol": "b2cUSD",
+            "website": "https://www.bitcoin2cash.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Bitcoin7",
+            "symbol": "b7USD",
+            "website": "https://bitcoin7.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Bitcoin Market",
+            "symbol": "bcmBMUSD",
+            "website": "https://bitcoinmarket.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Bitcoin Market",
+            "symbol": "bcmLRUSD",
+            "website": "https://bitcoinmarket.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Bitcoin Market",
+            "symbol": "bcmMBUSD",
+            "website": "https://bitcoinmarket.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Bitcoin Market",
+            "symbol": "bcmPPUSD",
+            "website": "https://bitcoinmarket.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Bitalo",
+            "symbol": "bitaloUSD",
+            "website": "https://bitalo.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "BitBox",
+            "symbol": "bitboxUSD",
+            "website": "https://bitbox.mx/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": " Bitcurex",
+            "symbol": "bitcurexUSD",
+            "website": "https://bitcurex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Bitfinex",
+            "symbol": "bitfinexUSD",
+            "website": "https://www.bitfinex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "bitfloor",
+            "symbol": "bitfloorUSD",
+            "website": "http://bitfloor.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "BitMarket.eu",
+            "symbol": "bitmarketUSD",
+            "website": "https://bitmarket.eu/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "bitme",
+            "symbol": "bitmeUSD",
+            "website": "https://bitme.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Bitcoin-24.com",
+            "symbol": "btc24USD",
+            "website": "http://bitcoin-24.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "BTC-Alpha",
+            "symbol": "btcalphaUSD",
+            "website": "https://btc-alpha.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "BTCC",
+            "symbol": "btccUSD",
+            "website": "https://www.btcc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "btc\u00b7e",
+            "symbol": "btceUSD",
+            "website": "https://btc-e.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "btcex.com",
+            "symbol": "btcexUSD",
+            "website": "https://btcex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "btcex.com",
+            "symbol": "btcexWMZ",
+            "website": "https://btcex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "BtcTree.com",
+            "symbol": "btctreeUSD",
+            "website": ""
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Camp BX",
+            "symbol": "cbxUSD",
+            "website": "https://campbx.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "GDAX",
+            "symbol": "coinbaseUSD",
+            "website": "https://www.gdax.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "CoinTrader",
+            "symbol": "cotrUSD",
+            "website": "https://www.cointrader.net/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Crypto X Change",
+            "symbol": "cryptoxUSD",
+            "website": "https://cryptoxchange.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Crypto-Trade",
+            "symbol": "crytrUSD",
+            "website": "https://crypto-trade.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "ExchangeBitcoins.com",
+            "symbol": "exchbUSD",
+            "website": "https://www.exchangebitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "EXMO",
+            "symbol": "exmoUSD",
+            "website": "https://exmo.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "FBTC Exchange",
+            "symbol": "fbtcUSD",
+            "website": "https://fbtcexchange.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "GetBTC",
+            "symbol": "getbtcUSD",
+            "website": "https://getbtc.org/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Global Bitcoin Exchange",
+            "symbol": "globalUSD",
+            "website": ""
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "hitbtc",
+            "symbol": "hitbtcUSD",
+            "website": "https://hitbtc.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "IBWT",
+            "symbol": "ibwtUSD",
+            "website": "https://ibwt.co.uk/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "IMCEX.COM",
+            "symbol": "imcexUSD",
+            "website": ""
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Indacoin",
+            "symbol": "indacoinUSD",
+            "website": "https://indacoin.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Intersango",
+            "symbol": "intrsngUSD",
+            "website": "https://intersango.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "itBit",
+            "symbol": "itbitUSD",
+            "website": "https://www.itbit.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Justcoin",
+            "symbol": "justUSD",
+            "website": "https://justcoin.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcUSD",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "LibertyBit",
+            "symbol": "lybitUSD",
+            "website": "https://www.libertybit.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "OKCoin",
+            "symbol": "okcoinUSD",
+            "website": "https://www.okcoin.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "p2pb2b",
+            "symbol": "p2pb2bUSD",
+            "website": "https://p2pb2b.io/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Ripple",
+            "symbol": "rippleUSD",
+            "website": "https://ripple.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "The Rock Trading",
+            "symbol": "rockUSD",
+            "website": "http://therocktrading.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Ruxum",
+            "symbol": "ruxumUSD",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "TradeHill",
+            "symbol": "thLRUSD",
+            "website": "https://www.tradehill.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "TradeHill",
+            "symbol": "thUSD",
+            "website": "https://www.tradehill.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "Vircurex",
+            "symbol": "vcxUSD",
+            "website": "https://vircurex.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "WeExchange",
+            "symbol": "weexUSD",
+            "website": "https://weexchange.co/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 107,
+            "name": "WEX",
+            "symbol": "wexUSD",
+            "website": "https://wex.nz/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 110,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcVEF",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 110,
+            "name": "SurBitcoin",
+            "symbol": "surbtcVEF",
+            "website": "https://surbitcoin.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 110,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcVES",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 111,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcVND",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 111,
+            "name": "Remitano",
+            "symbol": "remitanoVND",
+            "website": "https://remitano.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 112,
+            "name": "Justcoin",
+            "symbol": "justXRP",
+            "website": "https://justcoin.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 112,
+            "name": "Kraken",
+            "symbol": "krakenXRP",
+            "website": "https://kraken.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 112,
+            "name": "Ripple",
+            "symbol": "rippleXRP",
+            "website": "https://ripple.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 112,
+            "name": "Snowcoin",
+            "symbol": "snwcnXRP",
+            "website": "https://snowco.in/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 94,
+            "name": "LocalBitcoins",
+            "symbol": "localbtcZAR",
+            "website": "https://localbitcoins.com/"
+        },
+        "model": "market.Market"
+    },
+    {
+        "fields": {
+            "active": false,
+            "currency": 94,
+            "name": "Ruxum",
+            "symbol": "ruxumZAR",
+            "website": "https://ruxum.com/"
+        },
+        "model": "market.Market"
+    }
+]
