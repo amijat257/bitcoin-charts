@@ -14,7 +14,7 @@ from record.models import Record
 @task()
 def fetch_records():
     url = os.environ.get('MARKETS_URL', 'http://api.bitcoincharts.com/v1/markets.json')
-    response = requests.get(url)
+    response = requests.get(url, timeout=60)
     records = response.json()
     counter = 0
     for record in records:
