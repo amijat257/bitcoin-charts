@@ -3,18 +3,18 @@ from datetime import datetime
 from timeit import default_timer as timer
 
 import pytz
-import requests
 from celery import task
 from django.core.management.base import BaseCommand
 
 from market.models import Market
 from record.models import Record
+from security import safe_requests
 
 
 @task()
 def fetch_records():
     url = os.environ.get('MARKETS_URL', 'http://api.bitcoincharts.com/v1/markets.json')
-    response = requests.get(url)
+    response = safe_requests.get(url)
     records = response.json()
     counter = 0
     for record in records:
